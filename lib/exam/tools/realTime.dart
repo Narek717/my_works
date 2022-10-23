@@ -9,7 +9,6 @@ class StreamBuilderRealTimeClock extends StatefulWidget {
   _StreamBuilderRealTimeClockState createState() =>
       _StreamBuilderRealTimeClockState();
 }
-
 class _StreamBuilderRealTimeClockState
     extends State<StreamBuilderRealTimeClock> {
   final bool _running = true;

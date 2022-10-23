@@ -14,6 +14,7 @@ class _SimplePage3State extends State<SimplePage3> {
     return Padding(
       padding: EdgeInsets.all(15),
       child: Scaffold(
+        backgroundColor: Colors.white,
         body: Column(
           children: [
             Padding(
